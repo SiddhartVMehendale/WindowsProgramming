@@ -4,7 +4,7 @@
 
 void _tmain(int argc, TCHAR *argv[])
 {
-    // Loacl variable
+    // Local variable
     WIN32_FIND_DATA FindFileData;
     HANDLE hFind;
     TCHAR szFile[] = TEXT("D:\\Projects\\Test\\File Finder\\FindNextFile\\test.txt");
